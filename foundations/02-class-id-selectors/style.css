@@ -1,0 +1,20 @@
+/* styles.css */
+.pinkbg {
+    font-family: Verdana, sans-serif;
+    background-color: #ffb6c1;
+}
+
+.pinkbg2{
+    font-size: 24px;
+}
+
+#id1    {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#id2    {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
